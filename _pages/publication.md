@@ -1,16 +1,16 @@
 <!-- To add a figure like the senior's layout, put an image in paper_images/ and wrap an entry in the two-column table. -->
 
 **Emotion Is Not External Knowledge: Internal Attention Signals for Affective State Reasoning**  
-<u>Wenqiu Tang</u> (first author)  
-**AACL 2026**
+<u>Wenqiu Tang</u>, Zhen Wan, Yihui Wang, Takahiro Komamizu, Ichiro Ide  
+**AACL 2026** (Main Conference) · [[arXiv]](https://arxiv.org/abs/2610.21347)
 
 **DeSRPA: Decoupled Speech Role-Playing Agent via Inference-Time Intervention**  
 <u>Wenqiu Tang</u>, Zhen Wan, Takahiro Komamizu, Ichiro Ide  
-**INTERSPEECH 2026** · [[Paper]](https://arxiv.org/abs/2606.17669) [[Demo]](https://steeremo971-commits.github.io/emosteer-tts-demo/)
+**INTERSPEECH 2026** · [[Paper]](https://www.isca-archive.org/interspeech_2026/tang26b_interspeech.html) [[DOI]](https://doi.org/10.21437/Interspeech.2026-1627) [[arXiv]](https://arxiv.org/abs/2606.17669) [[Demo]](https://steeremo971-commits.github.io/emosteer-tts-demo/)
 
 **Facet-Level Persona Control by Trait-Activated Routing with Contrastive SAE for Role-Playing LLMs**  
 <u>Wenqiu Tang</u>, Zhen Wan, Takahiro Komamizu, Ichiro Ide  
-**PAKDD 2026** · [[DOI]](https://doi.org/10.1007/978-981-92-1947-6_33) [[arXiv]](https://arxiv.org/abs/2602.19157)
+**PAKDD 2026** · [[Springer]](https://link.springer.com/chapter/10.1007/978-981-92-1947-6_33) [[arXiv]](https://arxiv.org/abs/2602.19157)
 
 <details>
 <summary><b>Earlier publications — Tourism Studies (in Chinese)</b></summary>
