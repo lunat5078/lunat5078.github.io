@@ -12,7 +12,7 @@ I'm an M.Sc. student in Informatics at the Graduate School of Informatics, [Nago
 
 My research focuses on **inference-time intervention** and **mechanistic interpretability** for large language models and multimodal agents. I develop training-free methods for finding and controlling internal representations, such as routing with sparse autoencoders and causal localization of attention heads. Next, I want to extend these methods to graph-enhanced LLMs, graph-based memory and retrieval, and multimodal graph-language reasoning.
 
-Before Nagoya, I earned a B.A. in Tourism Management from Huaqiao University, where I ranked 1st in my department.
+Before Nagoya, I was a research student in sports tourism at the University of Tsukuba (2024–2025). I earned a B.A. in Tourism Management from Huaqiao University in 2023, ranking 1st in my department.
 
 My CV is available [here](/files/Wenqiu_Tang_CV.pdf).
 
