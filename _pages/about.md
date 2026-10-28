@@ -36,3 +36,7 @@ My CV is available [here](/files/Wenqiu_Tang_CV.pdf).
 🏅 Honors
 ======
   {% include_relative award.md %}
+
+🌐 Languages
+======
+  {% include_relative languages.md %}
