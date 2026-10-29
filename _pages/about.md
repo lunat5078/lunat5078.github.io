@@ -12,9 +12,9 @@ I'm an M.Sc. student in Informatics at the Graduate School of Informatics, [Nago
 
 My research focuses on **inference-time intervention** and **mechanistic interpretability** for large language models and multimodal agents. I develop training-free methods that locate and steer a model's internal representations to make human–AI interaction more natural. One line of my work enables **flexible style control**: adjusting a model's persona at the level of individual personality facets through sparse-autoencoder-based routing, and controlling emotional expression in the speech module of role-playing agents. Another line improves **the model's understanding of users' emotions**: I causally localize the attention heads that carry affective signals and strengthen them, which improves affective state reasoning without any fine-tuning.
 
-In the future, I want to improve **long-context multimodal reasoning** in omni-models.
+In the future, I want to improve **long-context multimodal reasoning** in omni-models, particularly identifying and reasoning over task-relevant information amid substantial noise and redundancy in long, real-world videos.
 
-Before Nagoya, I was a master's student in the Master's Program in Sport and Olympic Studies (TIAS) at the University of Tsukuba (2024–2025), focusing on sports tourism. I earned a B.A. in Tourism Management from Huaqiao University in 2023, ranking 1st in my department.
+Before Nagoya, I was a master's student in the Master's Program in Sport and Olympic Studies (TIAS) at the University of Tsukuba (2024–2025), where I worked on developing sports tourism agents. I earned a B.A. in Tourism Management from Huaqiao University in 2023, ranking 1st in my department.
 
 My CV is available [here](/files/Wenqiu_Tang_CV.pdf).
 
