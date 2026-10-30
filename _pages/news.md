@@ -19,13 +19,15 @@
   </tr>
 </table>
 
-<!-- INTERSPEECH 2026 -->
+<!-- INTERSPEECH 2026 — wide figure, so image spans the full width -->
 <table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="48%" valign="middle">
-      <img src="../paper_images/interspeech2026.png" width="100%">
+    <td valign="middle">
+      <a href="../paper_images/interspeech2026.png"><img src="../paper_images/interspeech2026.png" width="100%"></a>
     </td>
-    <td width="52%" valign="middle">
+  </tr>
+  <tr>
+    <td valign="middle">
       <h2>
         <a href="https://www.isca-archive.org/interspeech_2026/tang26b_interspeech.html">
           DeSRPA: Decoupled Speech Role-Playing Agent via Inference-Time Intervention
@@ -42,7 +44,7 @@
 <table width="100%" cellspacing="0" cellpadding="4">
   <tr>
     <td width="48%" valign="middle">
-      <img src="../paper_images/pakdd2026.png" width="100%">
+      <a href="../paper_images/pakdd2026.png"><img src="../paper_images/pakdd2026.png" width="100%"></a>
     </td>
     <td width="52%" valign="middle">
       <h2>
