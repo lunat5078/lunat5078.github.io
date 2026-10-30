@@ -1,4 +1,4 @@
-<!-- AACL 2026 (TODO: Code link) — wide figure, so image spans the full width -->
+<!-- AACL 2026 — wide figure, so image spans the full width -->
 <table width="100%" cellspacing="0" cellpadding="4">
   <tr>
     <td valign="middle">
@@ -14,7 +14,7 @@
       </h2>
       <p>🔥 <b>2026.10.15</b></p>
       <p><i>Annual Conference of the Asia-Pacific Chapter of the ACL (AACL 2026), Main Conference</i></p>
-      <p><a href="https://arxiv.org/abs/2610.21347">[arXiv]</a> <a href="#">[Code]</a></p>
+      <p><a href="https://arxiv.org/abs/2610.21347">[arXiv]</a></p>
     </td>
   </tr>
 </table>
