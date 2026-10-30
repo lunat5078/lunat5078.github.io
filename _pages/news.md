@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-<!-- INTERSPEECH 2026 — wide figure, so image spans the full width -->
+<!-- Interspeech 2026 — wide figure, so image spans the full width -->
 <table width="100%" cellspacing="0" cellpadding="4">
   <tr>
     <td valign="middle">
@@ -34,7 +34,7 @@
         </a>
       </h2>
       <p>🔥 <b>2026.09</b></p>
-      <p><i>INTERSPEECH 2026</i></p>
+      <p><i>Annual Conference of the International Speech Communication Association (Interspeech 2026)</i></p>
       <p><a href="https://www.isca-archive.org/interspeech_2026/tang26b_interspeech.html">[Paper]</a> <a href="https://arxiv.org/abs/2606.17669">[arXiv]</a> <a href="https://steeremo971-commits.github.io/emosteer-tts-demo/">[Demo]</a> <a href="https://github.com/steeremo971-commits/DeSRPA">[Code]</a></p>
     </td>
   </tr>

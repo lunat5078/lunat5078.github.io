@@ -12,7 +12,7 @@
 
 **DeSRPA: Decoupled Speech Role-Playing Agent via Inference-Time Intervention**  
 <u>Wenqiu Tang</u>, Zhen Wan, Takahiro Komamizu, Ichiro Ide  
-*INTERSPEECH 2026* · [[Paper]](https://www.isca-archive.org/interspeech_2026/tang26b_interspeech.html) [[arXiv]](https://arxiv.org/abs/2606.17669) [[Demo]](https://steeremo971-commits.github.io/emosteer-tts-demo/) [[Code]](https://github.com/steeremo971-commits/DeSRPA)
+*Interspeech 2026* · [[Paper]](https://www.isca-archive.org/interspeech_2026/tang26b_interspeech.html) [[arXiv]](https://arxiv.org/abs/2606.17669) [[Demo]](https://steeremo971-commits.github.io/emosteer-tts-demo/) [[Code]](https://github.com/steeremo971-commits/DeSRPA)
 * Connected frozen Qwen3-4B and StyleTTS2 through separate cognitive and acoustic controls; evaluated controllable generation, speaker similarity, WER, latency, and human judgments.
 
 <details>
