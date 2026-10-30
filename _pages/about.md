@@ -23,19 +23,11 @@ My CV is available [here](/files/Wenqiu_Tang_CV.pdf).
 ======
   {% include_relative news.md %}
 
-📝 Publications
-======
-  {% include_relative publication.md %}
-
 🎓 Education
 ======
   {% include_relative education.md %}
 
-🔬 Research Experience
-======
-  {% include_relative experience.md %}
-
-🏅 Honors
+🏅 Awards
 ======
   {% include_relative award.md %}
 
