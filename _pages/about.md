@@ -16,8 +16,6 @@ In the future, I want to improve **long-context multimodal reasoning** in omni-m
 
 Before Nagoya, I was a master's student in the Master's Program in Sport and Olympic Studies (TIAS) at the University of Tsukuba (2024–2025), where I worked on developing sports tourism agents. I earned a B.A. in Tourism Management from Huaqiao University in 2023, ranking 1st in my department.
 
-My CV is available [here](/files/Wenqiu_Tang_CV.pdf).
-
 
 📰 News
 ======
