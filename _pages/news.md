@@ -1,10 +1,12 @@
-<!-- AACL 2026 (TODO: Code link) -->
+<!-- AACL 2026 (TODO: Code link) — wide figure, so image spans the full width -->
 <table width="100%" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="48%" valign="middle">
-      <img src="../paper_images/aacl2026.png" width="100%">
+    <td valign="middle">
+      <a href="../paper_images/aacl2026.png"><img src="../paper_images/aacl2026.png" width="100%"></a>
     </td>
-    <td width="52%" valign="middle">
+  </tr>
+  <tr>
+    <td valign="middle">
       <h2>
         <a href="https://arxiv.org/abs/2610.21347">
           Emotion Is Not External Knowledge: Internal Attention Signals for Affective State Reasoning
